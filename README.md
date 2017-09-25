@@ -1,0 +1,2 @@
+# multimath
+multimath typescript demo
